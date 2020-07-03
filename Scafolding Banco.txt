@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=10.173.109.8\BOTIQA2016; User ID=testador; Password=test123; Database=LiveStage; Max Pool Size=1000;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
